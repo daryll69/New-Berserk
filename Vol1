@@ -1,0 +1,18 @@
+
+{    
+    "title": "Berserk",
+    "description": "Guts, a former mercenary now known as the Black Swordsman, is out for revenge.",
+    "author": "Kentaro Miura",
+    "artist": "Kentaro Miura",
+    "cover": "https://i.imgur.com/s5Qm9wE.jpg",
+    "chapters": {
+        "A0": {
+            "groups": {
+                "Daryll Imgur": "/proxy/api/imgur/chapter/RVfwAwb"
+            },
+            "last_updated": 1624606143,
+            "title": "The Black Swordsman",
+            "volume": "1"
+        }
+    }
+}
